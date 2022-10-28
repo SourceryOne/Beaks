@@ -3,3 +3,5 @@ Licensed under a cc-by-sa 3.0 license
 
 Github of Matias Levy $peaks
 https://github.com/matias-levy/peaks
+
+You can also buy the PCBs and componentsets here fairly cheap: https://www.tindie.com/products/27499/
