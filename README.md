@@ -4,4 +4,7 @@ Licensed under a cc-by-sa 3.0 license
 Github of Matias Levy $peaks
 https://github.com/matias-levy/peaks
 
+To view the iBOM without having to download them use these links:
+[Back PCB](https://htmlpreview.github.io/?https://github.com/SourceryOne/Beaks/blob/main/Beaks_BACKPCB_iBOM.html)
+[Front PCB](https://htmlpreview.github.io/?https://github.com/SourceryOne/Beaks/blob/main/Beaks_FRONTPCB_iBOM.html)
 You can also buy the PCBs and componentsets here fairly cheap: https://www.tindie.com/products/27499/
