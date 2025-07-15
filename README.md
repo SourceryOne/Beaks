@@ -16,4 +16,4 @@ To view the iBOM without having to download them use these links:
 
 [Front PCB](https://htmlpreview.github.io/?https://github.com/SourceryOne/Beaks/blob/main/iBOM_Beaks_Front_PCB.html)
 
-You can also buy the PCBs and componentsets here fairly cheap: [https://www.tindie.com/products/27499/]
+You can also buy the PCBs and componentsets here fairly cheap: [Beaks in my Tindie store](https://www.tindie.com/products/27499/)
